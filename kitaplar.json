@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Gece Yarısı Kütüphanesi",
+        "price": "15TL",
+        "img": "https://cdn.dsmcdn.com/ty193/product/media/images/20211010/21/144499310/259512191/0/0_org_zoom.jpg",
+        "category": "Bilim kurgu",
+        "stock" : 1,
+        "tarih" :""
+    },
+    {
+        "id": 2,
+        "name": "Fareler Ve İnsanlar",
+        "price": "25TL",
+        "img": "./images/2.jpg",
+        "category": "Trajedi",
+        "stock" : 3,
+        "tarih" :""
+    },
+    {
+        "id": 3,
+        "name": "Cesur Yeni Dünya",
+        "price": "30TL",
+        "img": "./images/3.jpg",
+        "category": "Bilim kurgu",
+        "stock" : 2,
+        "tarih" :""
+    },
+    {
+        "id": 4,
+        "name": "Cesur",
+        "price": "30TL",
+        "img": "./images/3.jpg",
+        "category": "Bilim kurgu",
+        "stock" : 0,
+        "tarih" :""
+    }
+]
